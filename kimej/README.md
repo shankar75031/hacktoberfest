@@ -1,3 +1,1 @@
-kim eojin
-
-hello world!
+## Demonstration of hello world programs
